@@ -167,6 +167,8 @@
           items:
           - name: Preview, manage, and enable Viva Glint surveys and dashboards
             href: setup/preview-manage-enable-engage-programs.md
+        - name: Delete survey data from Viva Glint
+          href: setup/delete-survey-data.md  
    - name: Reports
      items:
      - name: Viva Glint's survey reports
