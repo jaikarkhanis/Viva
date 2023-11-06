@@ -22,8 +22,6 @@ ms.date: 04/10/2023
 
 Microsoft Viva Glint allows admins to customize Viva Glint dashboards for different roles and with varying permissions. To choose the right dashboard for your leaders, understand the following options:
 
-[Use Viva Glint's Executive Summary dashboard](https://go.microsoft.com/fwlink/?linkid=2231010)
-
 [Use Viva Glint's Broader Team Insights feature](https://go.microsoft.com/fwlink/?linkid=2231012)
 
 [Use the Manager Concierge dashboard in Viva Glint](https://go.microsoft.com/fwlink/?linkid=2231115)
